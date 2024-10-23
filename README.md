@@ -12,12 +12,19 @@ Collaborative Approach: I believe in strong communication and teamwork, ensuring
 🌟 Core Competencies:
 
 🛠️ Flutter & Dart Development: Expert in building robust, scalable, and high-performance mobile applications.
+
 🔗 API Integration: Proficient in integrating RESTful APIs, GraphQL, Firebase, Google Maps, and more.
+
 🎨 UI/UX Design: Skilled at translating designs from Figma, Adobe XD, or Sketch into responsive, intuitive user interfaces.
+
 🔒 Blockchain Integration: Experience in integrating blockchain technology for secure, decentralized transactions.
+
 📊 Database Management: Expertise in SQLite and Firebase for efficient data storage and real-time capabilities.
+
 📲 Push Notifications: Implementing effective user engagement strategies using Firebase and local notifications.
+
 📏 Material Design & AdMob Integration: Adherence to Material Design principles with in-app AdMob integration.
+
 💳 Payment Gateway Integration: Proficient in integrating payment gateways like Razorpay, Stripe, and others.
 
 📈 My GitHub Stats
