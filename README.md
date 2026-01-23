@@ -32,10 +32,6 @@ Collaborative Approach: I believe in strong communication and teamwork, ensuring
 💼 Let’s Connect!
 If you're looking for a skilled Flutter Developer to bring your mobile app idea to life, feel free to reach out! I'm available for consultations and excited to collaborate on innovative projects.
 
-📧 Email: caman6709@gmail.com
 
-Portfolio: https://caman6709.wixsite.com/portfolio    
-
-LinkedIn : https://www.linkedin.com/in/aman-choudhary-a4068a176/
 
 Upwork : https://www.upwork.com/freelancers/flutterdeveloperhire  
